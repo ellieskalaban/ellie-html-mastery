@@ -1,0 +1,128 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 18px;
+  margin-bottom: 1.5em;
+}
+
+p, ul, ol, dl {
+  line-height: 1.6; 
+}
+
+article {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f4f4f4;
+  color: #333; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+body {
+  font-family: 'Ubuntu', Arial, sans-serif; 
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Ubuntu', Arial, sans-serif;
+  margin-top: 0;
+}
+
+h4 {
+  font-size: 1rem; 
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #777;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.byline, .photo-credit {
+  font-family: 'Arial', sans-serif;
+  color: #555;
+  margin: 10px 0;
+}
+
+.byline {
+  font-size: 1rem;
+  font-weight: normal;
+  text-align: right;
+}
+
+.photo-credit {
+  font-size: 0.875rem;
+  font-style: italic;
+  text-align: right;
+  color: #777;
+}
+
+article {
+  font-family: 'Ubuntu', Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.byline .date {
+  font-style: italic;
+}
+
+.photo-credit {
+  text-align: right;
+  margin-top: 10px; 
+}
+
+blockquote {
+  border-left: 4px solid grey;
+  padding: 20px;
+  margin-left: 30px;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+.comment-notes {
+  background-color: #CCC;
+  padding: 12px;
+}
